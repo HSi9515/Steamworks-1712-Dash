@@ -244,9 +244,9 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/FRC Color Processing Example/Vision Support Code/Sorted Particle Report 2016.vi"/>
-			<Item Name="Cull and Group.vi" Type="VI" URL="../Vision/FRC Color Processing Example/Vision Support Code/Cull and Group.vi"/>
-			<Item Name="Rectangle Comparison.vi" Type="VI" URL="../Vision/FRC Color Processing Example/Vision Support Code/Rectangle Comparison.vi"/>
+			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
+			<Item Name="Rectangle Comparison.vi" Type="VI" URL="../Vision/Rectangle Comparison.vi"/>
+			<Item Name="Cull and Group.vi" Type="VI" URL="../Vision/Cull and Group.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">

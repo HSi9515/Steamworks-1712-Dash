@@ -158,6 +158,7 @@
 				<Item Name="Report Read Error.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Report Read Error.vi"/>
 				<Item Name="Retrieve RPC Response.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Retrieve RPC Response.vi"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
+				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
 				<Item Name="Sequence.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Sequence.ctl"/>
 				<Item Name="Skip to RPC Outputs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Skip to RPC Outputs.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
@@ -245,8 +246,10 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
-			<Item Name="Rectangle Comparison.vi" Type="VI" URL="../Vision/Rectangle Comparison.vi"/>
-			<Item Name="Cull and Group.vi" Type="VI" URL="../Vision/Cull and Group.vi"/>
+			<Item Name="Rectangle Comparison Boiler.vi" Type="VI" URL="../Vision/Rectangle Comparison Boiler.vi"/>
+			<Item Name="Cull and Group Boiler.vi" Type="VI" URL="../Vision/Cull and Group Boiler.vi"/>
+			<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
+			<Item Name="Cull and Group Peg.vi" Type="VI" URL="../Vision/Cull and Group Peg.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">

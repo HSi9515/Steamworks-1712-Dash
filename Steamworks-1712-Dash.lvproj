@@ -249,10 +249,10 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
-			<Item Name="Rectangle Comparison Boiler.vi" Type="VI" URL="../Vision/Rectangle Comparison Boiler.vi"/>
-			<Item Name="Cull and Group Boiler.vi" Type="VI" URL="../Vision/Cull and Group Boiler.vi"/>
 			<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
 			<Item Name="Cull and Group Peg.vi" Type="VI" URL="../Vision/Cull and Group Peg.vi"/>
+			<Item Name="Cull and Group Boiler.vi" Type="VI" URL="../Vision/Cull and Group Boiler.vi"/>
+			<Item Name="Rectangle Comparison Boiler.vi" Type="VI" URL="../Vision/Rectangle Comparison Boiler.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
